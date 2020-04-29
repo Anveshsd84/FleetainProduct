@@ -27,7 +27,7 @@ import com.fleetain.TestBase.TestBase;
 public class TestUtils extends TestBase {
 //***********************************************Page Load Time Out And Implicitly Wait*****************************************
 	public static long PAGE_LOAD_TIME_OUT = 50;
-	public static long IMPLICIT_WAIT= 50;
+	public static long IMPLICIT_WAIT = 50;
 	
 //*****************************************Screen Shot Code**************************************************************
 	public static void takeScreenShotAtEndOFTheTest() throws Exception {
